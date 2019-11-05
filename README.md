@@ -1,6 +1,6 @@
 ##Multiplicar por la consola
 
-ESta app genera tablas de multiplicar por consola
+Esta app genera tablas de multiplicar por consola
 
 ejecuta este comando
 
